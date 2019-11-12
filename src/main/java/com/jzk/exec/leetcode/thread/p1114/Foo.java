@@ -1,0 +1,40 @@
+package com.jzk.exec.leetcode.thread.p1114;
+
+import java.util.concurrent.CountDownLatch;
+
+class Foo {
+    public CountDownLatch countDownLatch1 = new CountDownLatch(1);
+    public CountDownLatch countDownLatch2 = new CountDownLatch(2);
+    public Foo() {
+        
+    }
+
+    public void first(Runnable printFirst) throws InterruptedException {
+        // printFirst.run() outputs "first". Do not change or remove this line.
+        printFirst.run();
+        countDownLatch1.countDown();
+        countDownLatch2.countDown();
+    }
+
+    public void second(Runnable printSecond) throws InterruptedException {
+         try {
+            countDownLatch1.await();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        // printSecond.run() outputs "second". Do not change or remove this line.
+        printSecond.run();
+        countDownLatch2.countDown();
+    }
+
+    public void third(Runnable printThird) throws InterruptedException {
+        try {
+            countDownLatch1.await();
+            countDownLatch2.await();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        // printThird.run() outputs "third". Do not change or remove this line.
+        printThird.run();
+    }
+}
