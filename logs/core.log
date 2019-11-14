@@ -1,0 +1,85 @@
+INFO  2019-11-14 11:32:48,341 [Thread-0] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - 12
+INFO  2019-11-14 11:32:48,345 [Thread-1] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - 12
+INFO  2019-11-14 11:32:48,346 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - 12
+INFO  2019-11-14 11:32:48,346 [Thread-3] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - 12
+INFO  2019-11-14 11:33:14,896 [Thread-0] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - The Lists Size is 1
+INFO  2019-11-14 11:33:14,900 [Thread-0] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:32) - The Current Thread is Thread-0
+INFO  2019-11-14 11:33:14,900 [Thread-0] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:33) - ==============================
+INFO  2019-11-14 11:33:14,902 [Thread-4] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:52) - The Token Banana is [add Banana1]
+INFO  2019-11-14 11:33:14,903 [Thread-4] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:53) - The Current Thread is Thread-4
+INFO  2019-11-14 11:33:14,903 [Thread-4] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:54) - ==============================
+INFO  2019-11-14 11:33:14,904 [Thread-1] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - The Lists Size is 1
+INFO  2019-11-14 11:33:14,904 [Thread-1] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:32) - The Current Thread is Thread-1
+INFO  2019-11-14 11:33:14,905 [Thread-1] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:33) - ==============================
+INFO  2019-11-14 11:33:14,905 [Thread-5] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:52) - The Token Banana is [add Banana1]
+INFO  2019-11-14 11:33:14,906 [Thread-5] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:53) - The Current Thread is Thread-5
+INFO  2019-11-14 11:33:14,907 [Thread-5] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:54) - ==============================
+INFO  2019-11-14 11:33:14,907 [Thread-3] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - The Lists Size is 1
+INFO  2019-11-14 11:33:14,908 [Thread-3] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:32) - The Current Thread is Thread-3
+INFO  2019-11-14 11:33:14,908 [Thread-3] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:33) - ==============================
+INFO  2019-11-14 11:33:14,908 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - The Lists Size is 2
+INFO  2019-11-14 11:33:14,912 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:32) - The Current Thread is Thread-2
+INFO  2019-11-14 11:33:14,913 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:33) - ==============================
+INFO  2019-11-14 11:33:14,913 [Thread-6] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:52) - The Token Banana is [add Banana1]
+INFO  2019-11-14 11:33:14,913 [Thread-6] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:53) - The Current Thread is Thread-6
+INFO  2019-11-14 11:33:14,914 [Thread-6] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:54) - ==============================
+INFO  2019-11-14 11:33:14,914 [Thread-7] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:52) - The Token Banana is [add Banana2]
+INFO  2019-11-14 11:33:14,914 [Thread-7] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:53) - The Current Thread is Thread-7
+INFO  2019-11-14 11:33:14,915 [Thread-7] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:54) - ==============================
+INFO  2019-11-14 11:36:05,171 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - The Lists Size is 1
+INFO  2019-11-14 11:36:05,174 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:32) - The Current Thread is Thread-2
+INFO  2019-11-14 11:36:05,174 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:33) - ==============================
+INFO  2019-11-14 11:36:05,174 [Thread-7] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:52) - The Token Banana is [add Banana1]
+INFO  2019-11-14 11:36:05,174 [Thread-7] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:53) - The Current Thread is Thread-7
+INFO  2019-11-14 11:36:05,175 [Thread-7] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:54) - ==============================
+INFO  2019-11-14 11:36:05,175 [Thread-3] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - The Lists Size is 1
+INFO  2019-11-14 11:36:05,175 [Thread-3] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:32) - The Current Thread is Thread-3
+INFO  2019-11-14 11:36:05,175 [Thread-3] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:33) - ==============================
+INFO  2019-11-14 11:36:05,175 [Thread-6] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:52) - The Token Banana is [add Banana1]
+INFO  2019-11-14 11:36:05,175 [Thread-6] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:53) - The Current Thread is Thread-6
+INFO  2019-11-14 11:36:05,176 [Thread-6] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:54) - ==============================
+INFO  2019-11-14 11:36:12,605 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - The Lists Size is 1
+INFO  2019-11-14 11:36:12,609 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:32) - The Current Thread is Thread-2
+INFO  2019-11-14 11:36:12,609 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:33) - ==============================
+INFO  2019-11-14 11:36:12,609 [Thread-3] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - The Lists Size is 2
+INFO  2019-11-14 11:36:12,610 [Thread-3] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:32) - The Current Thread is Thread-3
+INFO  2019-11-14 11:36:12,610 [Thread-3] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:33) - ==============================
+INFO  2019-11-14 11:36:12,610 [Thread-6] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:52) - The Token Banana is [add Banana1]
+INFO  2019-11-14 11:36:12,611 [Thread-6] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:53) - The Current Thread is Thread-6
+INFO  2019-11-14 11:36:12,611 [Thread-6] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:54) - ==============================
+INFO  2019-11-14 11:36:12,611 [Thread-7] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:52) - The Token Banana is [add Banana2]
+INFO  2019-11-14 11:36:12,611 [Thread-7] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:53) - The Current Thread is Thread-7
+INFO  2019-11-14 11:36:12,611 [Thread-7] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:54) - ==============================
+INFO  2019-11-14 11:37:08,076 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - The Lists Size is 1
+INFO  2019-11-14 11:37:08,079 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:32) - The Current Thread is Thread-2
+INFO  2019-11-14 11:37:08,079 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:33) - ==============================
+INFO  2019-11-14 11:37:08,079 [Thread-5] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:52) - The Token Banana is [add Banana1]
+INFO  2019-11-14 11:37:08,080 [Thread-5] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:53) - The Current Thread is Thread-5
+INFO  2019-11-14 11:37:08,080 [Thread-5] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:54) - ==============================
+INFO  2019-11-14 11:39:49,373 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - The Lists Size is 1
+INFO  2019-11-14 11:39:49,783 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:32) - The Current Thread is Thread-2
+INFO  2019-11-14 11:39:53,319 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:33) - ==============================
+INFO  2019-11-14 11:49:15,052 [Thread-0] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - The Lists Size is 1
+INFO  2019-11-14 11:49:15,056 [Thread-0] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:32) - The Current Thread is Thread-0
+INFO  2019-11-14 11:49:15,056 [Thread-0] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:33) - ==============================
+INFO  2019-11-14 11:49:15,056 [Thread-1] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - The Lists Size is 2
+INFO  2019-11-14 11:49:15,057 [Thread-1] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:32) - The Current Thread is Thread-1
+INFO  2019-11-14 11:49:15,057 [Thread-1] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:33) - ==============================
+INFO  2019-11-14 11:49:15,057 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - The Lists Size is 3
+INFO  2019-11-14 11:49:15,057 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:32) - The Current Thread is Thread-2
+INFO  2019-11-14 11:49:15,057 [Thread-2] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:33) - ==============================
+INFO  2019-11-14 11:49:15,057 [Thread-3] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:31) - The Lists Size is 4
+INFO  2019-11-14 11:49:15,057 [Thread-3] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:32) - The Current Thread is Thread-3
+INFO  2019-11-14 11:49:15,058 [Thread-3] com.jzk.exec.leetcode.thread.lock.Task.add(Task.java:33) - ==============================
+INFO  2019-11-14 11:49:15,058 [Thread-4] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:52) - The Token Banana is [add Banana1]
+INFO  2019-11-14 11:49:15,058 [Thread-4] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:53) - The Current Thread is Thread-4
+INFO  2019-11-14 11:49:15,058 [Thread-4] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:54) - ==============================
+INFO  2019-11-14 11:49:15,058 [Thread-5] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:52) - The Token Banana is [add Banana2]
+INFO  2019-11-14 11:49:15,060 [Thread-5] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:53) - The Current Thread is Thread-5
+INFO  2019-11-14 11:49:15,060 [Thread-5] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:54) - ==============================
+INFO  2019-11-14 11:49:15,060 [Thread-6] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:52) - The Token Banana is [add Banana3]
+INFO  2019-11-14 11:49:15,060 [Thread-6] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:53) - The Current Thread is Thread-6
+INFO  2019-11-14 11:49:15,060 [Thread-6] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:54) - ==============================
+INFO  2019-11-14 11:49:15,061 [Thread-7] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:52) - The Token Banana is [add Banana4]
+INFO  2019-11-14 11:49:15,061 [Thread-7] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:53) - The Current Thread is Thread-7
+INFO  2019-11-14 11:49:15,061 [Thread-7] com.jzk.exec.leetcode.thread.lock.Task.sub(Task.java:54) - ==============================
